@@ -1,1 +1,1 @@
-web: node ./nodejs-knex/bin/www
+npm start
