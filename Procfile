@@ -1,0 +1,1 @@
+web: node ./nodejs-knex/bin/www
